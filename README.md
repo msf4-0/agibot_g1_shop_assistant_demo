@@ -14,7 +14,7 @@ First, source the a2d_sdk environment, following the instructions in the AgiBot 
 
 Then, install the following Python libraries in the environment you are using to host the MCP and Flask server.
 ```
-pip install fast-mcp, Flask, opencv-python
+pip install fastmcp, Flask, opencv-python
 ```
 
 Also, put the G1 in Co-Pilot mode:
